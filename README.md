@@ -1,2 +1,3 @@
 # DevinXian.github.io
-Design &amp; Code &amp; Life
+Life &amp; Love &amp; Design &amp; Code
+
