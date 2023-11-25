@@ -9,3 +9,6 @@ type Foo = [number, string];
 type DemoType = ElementType<Bar>; // { name: string }
 type DemoType2 = ElementType<Foo>; // string | number
 
+
+// TODO: 1. add typescript brand with extra property, such as `__brand: 'foo'`, but never use __brand
+// 2. use type assertion to narrow/tight type for current block context;
